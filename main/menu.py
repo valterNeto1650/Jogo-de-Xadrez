@@ -37,7 +37,7 @@ while True:
     # Preencher a tela com a cor branca
     tela.fill(BRANCO)
 
-    # Desenhar a imagem 
+    # Desenhar a imagem: 
    
     tela.blit(imagem, (0, 0))
 
